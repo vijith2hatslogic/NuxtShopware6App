@@ -1,0 +1,1 @@
+# NuxtShopware6App
